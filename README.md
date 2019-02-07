@@ -1,4 +1,4 @@
-# Boardguy
+# 朴 ギョンソク
 
 ## iOS Developer
 
@@ -10,29 +10,25 @@
 
 | Classification | Stack  |
 | :-- | :-- |
-| Language | Swift, Objective-C, C#, Html&CSS, Markdown, kotlin  |
-| DB | Mysql, Realm, Firebase realtime DB |
-| DevOps | Xcode, Visual Studio2015, Android Studio, Atom, Github, TortoiseSVN, Bitbucket, Confluence, Backlog |
+| Language | Swift, RxSwift, Objective-C, C#, Html&CSS, Markdown, kotlin  |
+| DB | Realm, Firebase realtime DB |
+| DevOps | Xcode, Visual Studio2015, Android Studio, Atom, Github, TortoiseSVN, Jira, Bitbucket, Confluence, Backlog |
 | Design tool| Sketch, Photoshop, Illustrator |
 | Communication tool| Slack, ChatWork |
 
 ## Work Experience
 
+#### チケットエンタメアプリを開発 「リリース中」 iOS担当
+- 2017.9 ～ 現在
+- iOS Engineer / Swift4.2 & RxSwift4.0
+
 #### [🔗](http://www.stonesystem.co.jp/ "ストーンシステム") 株式会社ストーンシステム
-- 2015.11 ～ 現在
+- 2015.11 ～ 2017.8
 - iOS Engineer / C# Engineer
 
-#### [🔗](http://www.sp-k.co.jp/ "エス・ピー広告") 株式会社エス・ピー広告
-- 2013.08 ～ 2015.09
-- Graphic Designer
-
-#### [🔗](http://www.dreams6.com/ "Dreams") 株式会社ドリームズ
-- 2012.1 ～ 2013.07
-- Indstrial Designer(Product Designer)
-
-#### [🔗](http://www.designgoddess.co.kr/main.html/ "goddessDesign") (韓国)株式会社GoddessDesign
-- 2008.10 ～ 2011.1
-- Indstrial Designer(Product Designer)
+#### 以下まではデザイナーとして経験を積む
+- 2008.10 ～ 2015.1 
+- Indstrial Designer(Product Designer), Graphic Designer
 
 ## Projects (Private)
 |Icon|Term|Description|-|
