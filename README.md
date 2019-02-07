@@ -41,7 +41,8 @@
 ## Projects (Public)
 |Icon|Term|Description|-|
 |:--|:--|:--|:--:|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.6 ~ 8|取引関連アプリ<br>- Swift3を使ってアプリ開発に参画|[なし]()|
+|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.9 ~ 現在|チケットエンタメアプリ開発<br>- Swift、RxSwiftを使ってアプリを開発|[なし]()|
+|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.6 ~ 8|著名人時間取引関連アプリ<br>- Swift3を使ってアプリ開発に参画|[なし]()|
 |![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.6 ～ 2017.7|エンタメ情報関連アプリ<br>-　Objective-C基盤のソースコードをSwift3版に移行する作業を担当|[なし]()|
 |![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.4 ～ 2017.5|メルマガ情報アプリ<br>-　Swift3を使ってアプリ開発に参画|[なし]()|
 |![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.2 ～ 2017.3|写真投稿アプリ<br>-　Swift3を使ってアプリ開発に参画|[なし]()|
@@ -54,7 +55,6 @@
 その中でAppleのiPod touch１世代を手にした瞬間人とデバイスが対話をするようなインタレクティブに衝撃を感じ、そのインタフェースはアプリケーションであると
 思い知りました。アプリケーションで世の中をもっと便利に豊かにしたいという強い思いからモバイルエンジニアになることを決心しました。
 
-
 <br><br>
 
 ## Core value
@@ -65,12 +65,13 @@
 - 開発するサービスをユーザーの目線で見ることを大事にします。
 - 仕様をしっかり理解した上で丈夫な設計やチームワークを意識したソースコードを書くことを心がけます。
 -　デザイナーとエンジニアが円満なコミュニケーションを取ることを大事にし、可能な限り、プロトタイプに近い結果物を実現することを目標にします。
+- UIデザイナーからの要望にできるだけ100％に近い実装を実現できると共にUXに関しても意見やアイデアなども話し合って柔軟に対応します。
 -　チームワークを大事にします。
 
 ### 2. Growth
 - [KJCode](https://www.facebook.com/kjcode/)というiOS開発の勉強会に定期的に参加をしています。この他、UI,UX勉強にも興味があるので時期参加し
 エンジニアだけでなくユーザー経験デザインにも成長していきます。
-- youtubeやraywenderlichといったプログラミングのチュートリアルを購読し常にコーディングする習慣をつけています。
+- youtubeやraywenderlichといったプログラミングのチュートリアルを購読し定期的にコーディングする習慣をつけています。
 
 ### 3. Research
 - 最新のアプリのUI,UXそして作られた目的などをベンチマークしています。
