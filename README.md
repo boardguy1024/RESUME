@@ -29,6 +29,7 @@
 #### 以下まではデザイナーとして経験を積む
 - 2008.10 ～ 2015.1 
 - Indstrial Designer(Product Designer), Graphic Designer
+- 手がけたプロジェクトの中で日本で販売しているダーツ筐体（VS Phoenix）　http://vs.phoenixdart.com/jp
 
 ## Projects (Private)
 |Icon|Term|Description|-|
