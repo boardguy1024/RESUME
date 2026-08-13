@@ -31,9 +31,9 @@ UIデザイナーからの要望に対して限りなく100%に近い実装を�
 
 | | App | 概要 | 技術ポイント |
 | :--: | :-- | :-- | :-- |
-| <img src="images/voida.png" width="60"> | **[Voida](https://apps.apple.com/jp/app/id6763839287)**<br>カメラアプリ | 普段から写真撮影が好きで、サブスクで使っていたアプリを参考に自作 | **CoreML の深度推定モデル**で写真の深度を推定し、その値に応じた自然なボケ（被写界深度）を実装 |
-| <img src="images/lamune.png" width="60"> | **[LAMUNE](https://apps.apple.com/jp/app/id6792246878)**<br>フィルム加工アプリ | フィルム加工に特化し、多彩なプリセットでワンタップ加工が可能 | 画像処理パイプライン／プリセット設計、加工プレビューの最適化 |
-| <img src="images/ilgi.png" width="60"> | **[ilgi](https://apps.apple.com/jp/app/id6751026452)**<br>日記アプリ | まず手を動かすことを目的に開発したシンプルな記録アプリ | UI/UX を意識した記録体験の設計 |
+| <img src="images/voida.png" width="120"> | **[Voida](https://apps.apple.com/jp/app/id6763839287)**<br>カメラアプリ | 普段から写真撮影が好きで、サブスクで使っていたアプリを参考に自作 | **CoreML の深度推定モデル**で写真の深度を推定し、その値に応じた自然なボケ（被写界深度）を実装 |
+| <img src="images/lamune.png" width="120"> | **[LAMUNE](https://apps.apple.com/jp/app/id6792246878)**<br>フィルム加工アプリ | フィルム加工に特化し、多彩なプリセットでワンタップ加工が可能 | 画像処理パイプライン／プリセット設計、加工プレビューの最適化 |
+| <img src="images/ilgi.png" width="120"> | **[ilgi](https://apps.apple.com/jp/app/id6751026452)**<br>日記アプリ | まず手を動かすことを目的に開発したシンプルな記録アプリ | UI/UX を意識した記録体験の設計 |
 
 いずれも 企画 → UIデザイン → 実装 → 審査対応 → リリース までを個人で担当しています。
 
@@ -45,7 +45,7 @@ UIデザイナーからの要望に対して限りなく100%に近い実装を�
 | :-- | :-- |
 | **Language** | Swift（9年2ヶ月 / そのうち SwiftUI 2年5ヶ月）、C#（1年6ヶ月）、React / HTML / CSS（6ヶ月以上） |
 | **UI** | UIKit（Storyboard / XIB、Storyboard不使用のコードベースUI設計の両方に対応）、Lottie、カスタムアニメーション |
-| **Architecture** | MVVM、VIPER、Clean Architecture、[TCA](https://github.com/pakuVision/TCA_Sample)（公式サンプルを参照して基礎を学習） |
+| **Architecture** | MVVM、VIPER、Clean Architecture、[TCA](https://github.com/pakuVision/TCA_Sample)（実務経験なし / 公式サンプルを参照して基礎を学習） |
 | **非同期・並行** | async/await、RxSwift、ReactiveSwift |
 | **Apple Frameworks** | AVFoundation、CoreML、CoreData、GoogleMaps |
 | **Backend / BaaS** | Firebase（Database / Auth / Storage / Crashlytics / Analytics / AppDistribution）、Apollo（GraphQL） |
