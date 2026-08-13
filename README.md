@@ -1,78 +1,172 @@
-# 朴 ギョンソク
+# パク ギョンソク
 
-## iOS Developer
+## iOS Engineer / フリーランス
 
-[![study](https://img.shields.io/badge/study-KJCode-yellow.svg)](https://www.facebook.com/kjcode/)
+Swift **9年2ヶ月**（うち SwiftUI **2年5ヶ月**）／ 業務委託でのフルリモート稼働歴 **8年以上**
+
 [![e-mail](https://img.shields.io/badge/e--mail-boardguy1024@gmail.com-green.svg)](mailto:boardguy1024@gmail.com)
-[![github](https://img.shields.io/badge/github-boardguy1024-blue.svg)](https://github.com/boardguy1024/)
+[![github](https://img.shields.io/badge/GitHub-boardguy1024-blue.svg)](https://github.com/boardguy1024)
+[![github-sub](https://img.shields.io/badge/GitHub(private)-pakuvision-lightgrey.svg)](https://github.com/pakuvision)
+[![animation](https://img.shields.io/badge/Animation_works-GIPHY-ff6550.svg)](https://giphy.com/channel/boardguy1024)
 
-## Tech stack
+<br>
 
-| Classification | Stack  |
+## 自己PR
+
+デザイナー出身のため、**UI/UX を重視した開発**を心掛けています。
+UIデザイナーからの要望に対して限りなく100%に近い実装を行うと同時に、UX面での提案・改善も積極的に行ってきました。
+（アニメーション実装の一部は [GIPHY](https://giphy.com/channel/boardguy1024) にてご覧いただけます）
+
+技術面では、**既存コードのリファクタリングやパフォーマンス改善**を得意としています。
+コールバックの多重ネストで追跡困難だった動画再生ロジックを async/await で全体再設計したり、
+発熱・フリーズといったパフォーマンス課題を数値で改善するなど、
+「動くコード」から「保守できるコード」へ引き上げる役割を多く担ってきました。
+
+また、前回の契約終了後の約3ヶ月間は、AIツールを活用しながら
+**企画・デザイン・開発・リリースまでを一人で完遂**したアプリを3本 App Store に公開しました。
+
+<br>
+
+## 個人開発アプリ（App Store リリース中）
+
+| App | 概要 | 技術ポイント |
+| :-- | :-- | :-- |
+| **[Voida](https://apps.apple.com/jp/app/id6763839287)**<br>カメラアプリ | 普段から写真撮影が好きで、サブスクで使っていたアプリを参考に自作 | **CoreML の深度推定モデル**で写真の深度を推定し、その値に応じた自然なボケ（被写界深度）を実装 |
+| **[LAMUNE](https://apps.apple.com/jp/app/id6792246878)**<br>フィルム加工アプリ | フィルム加工に特化し、多彩なプリセットでワンタップ加工が可能 | 画像処理パイプライン／プリセット設計、加工プレビューの最適化 |
+| **[ilgi](https://apps.apple.com/jp/app/id6751026452)**<br>日記アプリ | まず手を動かすことを目的に開発したシンプルな記録アプリ | UI/UX を意識した記録体験の設計 |
+
+いずれも 企画 → UIデザイン → 実装 → 審査対応 → リリース までを個人で担当しています。
+
+<br>
+
+## Skills
+
+| 分類 | 内容 |
 | :-- | :-- |
-| Language | Swift, RxSwift, Objective-C, C#, Html&CSS, Markdown, kotlin  |
-| DB | Realm, Firebase realtime DB |
-| DevOps | Xcode, Visual Studio2015, Android Studio, Atom, Github, TortoiseSVN, Jira, Bitbucket, Confluence, Backlog |
-| Design tool| Sketch, Photoshop, Illustrator |
-| Communication tool| Slack, ChatWork |
+| **Language** | Swift（9年2ヶ月）、C#（1年6ヶ月）、React / HTML / CSS（6ヶ月以上） |
+| **UI** | SwiftUI（2年5ヶ月）、UIKit、Lottie、カスタムアニメーション |
+| **Architecture** | MVVM、VIPER、Clean Architecture |
+| **非同期・並行** | async/await、RxSwift、ReactiveSwift |
+| **Apple Frameworks** | AVFoundation、CoreML、CoreData、GoogleMaps |
+| **Backend / BaaS** | Firebase（Database / Auth / Storage / Crashlytics / Analytics / AppDistribution）、Apollo（GraphQL） |
+| **その他** | Swinject（DI）、UnitTest（Presenter / Interactor）、ピアレビュー |
+| **Tool** | Xcode、Git / GitHub、Bitbucket、Jira、Backlog、Confluence |
 
-## Work Experience
+<br>
 
-#### チケットエンタメアプリを開発 「リリース中」 iOS担当
-- 2017.9 ～ 現在
-- iOS Engineer / Swift4.2 & RxSwift4.0
+## 職務経歴
 
-#### [🔗](http://www.stonesystem.co.jp/ "ストーンシステム") 株式会社ストーンシステム
-- 2015.11 ～ 2017.8
-- iOS Engineer / C# Engineer
+### 2023/12 ~ 2026/4（2年5ヶ月）｜業務委託（フリーランス）｜フルリモート
+**AI骨格分析によるスポーツ・ダンス動作判定サービス（iOS）**
 
-#### 以下まではデザイナーとして経験を積む
-- 2008.10 ～ 2015.1 
-- Indstrial Designer(Product Designer), Graphic Designer
-- 手がけたプロジェクトの中で日本で販売しているダーツ筐体（VS Phoenix）　http://vs.phoenixdart.com/jp
+スポーツやダンスの動作・姿勢を AI 骨格分析でマッチ度判定するサービスの新機能開発・運用・保守。
+体制：iOSエンジニア4名（うち自身1名）／ iPhone・iPad 対応
 
-## Projects (Private)
-|Icon|Term|Description|-|
-|:--|:--|:--|:--:|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/instastory.png?raw=true=50x50)|2017.7 ~ 現在|写真、動画共有アプリ<br> - FirebaseのRealtime databaseを使ったアプリを開発中|[詳細](https://github.com/boardguy1024/MyInstaStory/blob/master/README.md)|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/weatalker.png?raw=true=50x50)|2017.6 ~ 2017.7|チャットアプリ<br> - FirebaseのRealtime databaseを使ったチャットアプリを開発|[詳細](https://github.com/boardguy1024/chatUsingFirebase/blob/master/README.md)|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/mono.png?raw=true=50x50)|2017.4 ～ 現在|画像色編集アプリ<br> - モノクロームイメージにカラーでポイントを入れたい部分を指でなぞり仕上げる仕組み<br>-　リリース目的のため非公開|[非公開]|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/ballrunaway.png?raw=true=50x50)|2015.7 ~ 2015.10|BallRunAway<br> - Unity5,C#を使って開発<br>-　Blnederで単純な3dモデリングを作成|[詳細](https://github.com/boardguy1024/BallRunAway/blob/master/README.md)|
+**担当**
+- 既存の動画再生ロジックをリファクタリング。コールバックが多くフローの追跡が困難だったため、**async/await を導入してプロジェクト全体を再設計**。可読性を向上させ、副作用に起因するバグを大幅に削減
+- 動画再生時の**発熱問題を改善**
+- 長時間再生後に画面を閉じると**10秒以上フリーズしていた不具合を1秒台まで改善**
+- MVVMアーキテクチャに沿った新機能開発・保守・バグ対応
+- クライアントとの技術的な相談対応・実現可能性の検討
+- ピアレビュー
 
-## Projects (Public)
-|Icon|Term|Description|-|
-|:--|:--|:--|:--:|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.9 ~ 現在|チケットエンタメアプリ開発<br>- Swift、RxSwiftを使ってアプリを開発|[なし]()|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.6 ~ 8|著名人時間取引関連アプリ<br>- Swift3を使ってアプリ開発に参画|[なし]()|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.6 ～ 2017.7|エンタメ情報関連アプリ<br>-　Objective-C基盤のソースコードをSwift3版に移行する作業を担当|[なし]()|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.4 ～ 2017.5|メルマガ情報アプリ<br>-　Swift3を使ってアプリ開発に参画|[なし]()|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2017.2 ～ 2017.3|写真投稿アプリ<br>-　Swift3を使ってアプリ開発に参画|[なし]()|
-|![](https://github.com/boardguy1024/RESUME/blob/master/images/test.png?raw=true=50x50)|2015.12 ~ 2017.04|FXディーリングシステム<br> - FXディーラーが使用する業務アプリを開発<br>- 基本設計書、詳細設計書、単体テスト作成及びチケット対応を行う。|[なし]()|
+`Swift` `SwiftUI` `MVVM` `async/await` `AVFoundation` `CoreData` `Firebase Crashlytics`
 
-<br><br>
+---
 
-## iOSエンジニアになったきっかけ
-- 世の中の生活の周りはいろんなモノでできており、私は人の生活をもっと便利に、もっと豊かにするためにプロダクトデザインに携わってきました。
-その中でAppleのiPod touch１世代を手にした瞬間人とデバイスが対話をするようなインタレクティブに衝撃を感じ、そのインタフェースはアプリケーションであると
-思い知りました。アプリケーションで世の中をもっと便利に豊かにしたいという強い思いからモバイルエンジニアになることを決心しました。
+### 2021/12 ~ 2023/10（1年11ヶ月）｜業務委託（フリーランス）｜フルリモート
+**クラウドファンディングアプリ（iOS）**
 
-<br><br>
+**担当**
+- 新機能を SwiftUI で開発
+- UX / UI の改善点を提案し、画面の改修を実装
+- 保守・バグ対応
+- VIPER の UnitTest を実装（主に Presenter、Interactor）
+- ピアレビュー
 
-## Core value
-**「生活コーディング」を実現します。**
-> 仕事だけでなく常にコーディングをすることで新しい技術やライブラリーなどを身につけ、もっとシンプルにもっと効率的に実装することを目指します。
+`Swift` `SwiftUI` `VIPER` `Firebase(Database/Storage/Crashlytics)` `Apollo(GraphQL)`
 
-### 1. Impact
-- 開発するサービスをユーザーの目線で見ることを大事にします。
-- 仕様をしっかり理解した上で丈夫な設計やチームワークを意識したソースコードを書くことを心がけます。
--　デザイナーとエンジニアが円満なコミュニケーションを取ることを大事にし、可能な限り、プロトタイプに近い結果物を実現することを目標にします。
-- UIデザイナーからの要望にできるだけ100％に近い実装を実現できると共にUXに関しても意見やアイデアなども話し合って柔軟に対応します。
-- チームワークを大事にします。
+---
 
-### 2. Growth
-- [KJCode](https://www.facebook.com/kjcode/)というiOS開発の勉強会に定期的に参加をしています。この他、UI,UX勉強にも興味があるので時期参加し
-エンジニアだけでなくユーザー経験デザインにも成長していきます。
-- youtubeやraywenderlichといったプログラミングのチュートリアルを購読し定期的にコーディングする習慣をつけています。
+### 2020/7 ~ 2021/11（1年4ヶ月）｜業務委託（フリーランス）｜フルリモート
+**ウォレットアプリ開発（iOS）**
 
-### 3. Research
-- 最新のアプリのUI,UXそして作られた目的などをベンチマークしています。
+既存アプリを刷新するプロジェクトに途中から参画。
+
+**担当**
+- 用意されたサンプルモジュールをベースに Clean Architecture で実装
+- 2021年1月にリリース、以降はバグ対応および新機能開発
+- プロジェクト規模に見合った構成へ見直すため、**Clean Architecture から VIPER への移行**をチームで担当（全体の約30%まで推進）
+- ピアレビュー
+
+`Swift` `Clean Architecture` `Swinject` `Lottie`
+
+---
+
+### 2020/1 ~ 2020/5（5ヶ月）｜業務委託（フリーランス）｜フルリモート・常駐（ハイブリッド）
+**瞑想アプリ 新規開発（リリース中）**
+
+**担当**
+- UI実装、FirebaseAuth（Sign in with Apple / Facebook / Twitter / Google）、Firebase データベース通信処理
+- ReactJS による Web ページ作成
+- 開発進行中は Firebase App Distribution でアプリをクライアントへ提供し、テストや改善点を検証
+- リリース後の新機能追加・改修対応
+
+`Swift` `RxSwift` `MVVM` `Firebase(Auth/Database/Storage/Crashlytics/Analytics)` `Lottie` `ReactJS` `HTML/CSS`
+
+---
+
+### 2019/9 ~ 2019/12（4ヶ月）｜業務委託（フリーランス）
+**瞑想アプリ 改修（iOS）**
+
+他社で制作された、**ビルド不能かつ多数の不具合を抱えたアプリ**の改修を担当。
+
+**担当**
+- ビルド可能な状態へ修正
+- バックグラウンド再生時の強制終了・再生不具合の修正
+- **メモリリークによる強制終了をはじめ、多数のクラッシュを改修**
+- ReactJS で WebView を作成しアプリへ反映
+- 新機能追加
+
+`Swift` `RxSwift` `ReactiveSwift` `MVVM` `Firebase(Auth/Database/Storage/Crashlytics/Analytics)` `Lottie` `ReactJS` `HTML/CSS`
+
+> ※ 上記3案件（2019/9 ~ 2021/11）は同一現場での参画であり、契約期間は通算2年2ヶ月です。
+
+---
+
+### 2017/9 ~ 2019/4（1年5ヶ月）｜業務委託（フリーランス）
+**大手チケットエンタメアプリ開発（iOS）**
+
+**担当**
+- 新規プロジェクト開発に初期から参画
+- MVVM をベースに画面を実装（カスタムアニメーション、カスタムUI、API実装など）
+- リリース後のバグ対応・新機能追加対応
+
+`Swift` `RxSwift` `MVVM` `GoogleMaps` `Firebase Crashlytics` `Firebase Analytics`
+
+---
+
+### 2017/6 ~ 2017/8（3ヶ月）｜正社員｜社内開発
+**著名人の時間を取引するアプリ開発（iOS）**
+
+**担当**
+- 新規プロジェクト開発に初期から参画
+- 画面の約20%を作成（StoryView + ViewController）
+- SNSログインロジック実装
+
+`Swift` `Twitter SDK(Login)` `Facebook SDK(Login)`
+
+<br>
+
+## 稼働について
+
+- **稼働形態**：フルリモート（業務委託）を中心に、8年以上の稼働実績があります
+- **得意領域**：既存プロジェクトのリファクタリング、パフォーマンス改善、UI/UX を意識した実装、SwiftUI での新規機能開発
+- **参画スタイル**：仕様の背景を理解した上で実装し、技術的な相談やUX改善の提案も併せて行います
+
+<br>
+
+## Contact
+
+- Mail：[boardguy1024@gmail.com](mailto:boardguy1024@gmail.com)
+- GitHub：[boardguy1024](https://github.com/boardguy1024) / [pakuvision](https://github.com/pakuvision)（プライベート専用）
